@@ -30,6 +30,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/i9500/proprietary/vendor/lib/egl/libGLESv1_CM_POWERVR_SGX544_115.so:system/vendor/lib/egl/libGLESv1_CM_POWERVR_SGX544_115.so \
     vendor/samsung/i9500/proprietary/vendor/lib/egl/libGLESv2_POWERVR_SGX544_115.so:system/vendor/lib/egl/libGLESv2_POWERVR_SGX544_115.so \
     vendor/samsung/i9500/proprietary/vendor/lib/libglslcompiler.so:system/vendor/lib/libglslcompiler.so \
+    vendor/samsung/i9500/proprietary/vendor/lib/liblvverx.so:system/vendor/lib/liblvverx.so \
+    vendor/samsung/i9500/proprietary/vendor/lib/liblvvetx.so:system/vendor/lib/liblvvetx.so \
     vendor/samsung/i9500/proprietary/vendor/lib/libIMGegl.so:system/vendor/lib/libIMGegl.so \
     vendor/samsung/i9500/proprietary/vendor/lib/liboclcompiler.so:system/vendor/lib/liboclcompiler.so \
     vendor/samsung/i9500/proprietary/vendor/lib/libpvr2d.so:system/vendor/lib/libpvr2d.so \
